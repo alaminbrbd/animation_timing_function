@@ -1,1 +1,1 @@
-# animation_timing_function
+# animation_timing_function; favicon
